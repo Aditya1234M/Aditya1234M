@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aditya-mishra1910)
 [![Email](https://img.shields.io/badge/Email-adityam1919@gmail.com-D14836?style=flat&logo=gmail)](mailto:adityam1919@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya1234M-181717?style=flat&logo=github)](https://github.com/Aditya1234M)
 
 </div>
 
