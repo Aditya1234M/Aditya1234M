@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aditya-mishra1910)
 [![Email](https://img.shields.io/badge/Email-adityam1919@gmail.com-D14836?style=flat&logo=gmail)](mailto:adityam1919@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya1234M-181717?style=flat&logo=github)](https://github.com/Aditya1234M)
 
 </div>
 
@@ -16,10 +17,10 @@
 not just studying them. I work at the intersection of multimodal AI,
 autonomous agents, and computer vision.
 
-Currently building systems that use Gemini Live API, Amazon Bedrock,
-FastAPI, and Docker to solve real problems. My food classification
-model (EfficientNet-B3) achieves **~77% top-1 accuracy on Food101**
-and **~70% on Indian food datasets**.
+Currently building systems using Gemini Live API, Amazon Bedrock,
+FastAPI, and Docker. My food classification model (EfficientNet-B3)
+achieves **~77% top-1 accuracy on Food101** and **~70% on Indian
+food datasets**.
 
 ---
 
@@ -41,49 +42,18 @@ FastAPI · REST APIs · WebSockets · Docker · GitHub Webhooks
 AWS (Bedrock) · Google Cloud (GenAI) · Oracle Cloud Infrastructure
 
 **Tools**
-Git · GitHub · Excel · Pandas · NumPy
+Git · GitHub · Pandas · NumPy · Excel
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔴 IRIS — Real-Time Spatial Awareness Agent
-> Gemini Live API · WebSockets · Python · Pixel-diff Algorithm
-
-Multimodal AI agent that provides real-time environment understanding
-using camera and audio input. Engineered a pixel-diff algorithm that
-detects scene changes and triggers proactive contextual alerts with
-sub-200ms latency. Built with continuous WebSocket streaming.
-Demonstrated live at hackathon.
-
----
-
-### 🤖 RepoSage — Autonomous Open-Source Code Reviewer
-> FastAPI · Amazon Bedrock · GitHub Webhooks · Docker
-
-Autonomous PR review system that triggers on GitHub events, analyses
-full codebase context using Amazon Nova Bedrock models, runs tests,
-and posts structured fix suggestions. Reduces manual code review
-effort end-to-end without human intervention.
-
----
-
-### 🧪 PRoctor — OpenEnv Code Agent Evaluator
-> Docker · FastAPI · OpenEnv · Python
-
-Deterministic evaluation environment for AI code agents. Built with
-OpenEnv-based reset/step/state APIs and containerised using Docker
-for reproducible scoring pipelines. Implements reward system comparing
-agent predictions against ground truth.
-
----
-
-### 🥗 Nutrit — AI Food Nutrition Analyser
-> TensorFlow · EfficientNet-B3 · Keras · Transfer Learning
-
-Multi-head CNN achieving **~77% top-1 accuracy on Food101** and
-**~70% on Indian food datasets**. Implemented transfer learning
-with ImageNet pre-trained weights and task-specific fine-tuning.
+| Project | Description | Tech |
+|---|---|---|
+| [IRIS](https://github.com/Aditya1234M/IRIS) | Real-time multimodal spatial awareness agent with sub-200ms scene change detection | Gemini Live API · WebSockets · Python |
+| [RepoSage](https://github.com/Aditya1234M/RepoSage) | Autonomous GitHub PR reviewer triggered by webhooks, posts structured fix suggestions | FastAPI · Amazon Bedrock · Docker |
+| [PRoctor](https://github.com/Aditya1234M/PRoctor) | Deterministic evaluation environment for AI code agents with reproducible scoring | OpenEnv · Docker · FastAPI |
+| [Nutrit](https://github.com/Aditya1234M/Nutrit) | Food nutrition analyser achieving ~77% top-1 accuracy on Food101 | EfficientNet-B3 · TensorFlow · Keras |
 
 ---
 
@@ -98,7 +68,6 @@ with ImageNet pre-trained weights and task-specific fine-tuning.
 | Data Analytics Job Simulation | Forage / Deloitte Australia | 2025 |
 
 ---
-
 
 <div align="center">
 <i>Open to internships, research collaborations, and interesting problems.</i>
