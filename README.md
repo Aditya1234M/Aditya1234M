@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aditya Mishra
 
-<!--
-**Aditya1234M/Aditya1234M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Undergraduate focused on Agentic AI Systems, Generative AI, and Computer Vision.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- Python
+- FastAPI
+- Gemini Live API
+- Amazon Bedrock
+- Docker
+- TensorFlow
+- OpenEnv
+- WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### IRIS — Real-Time Spatial Awareness Agent
+Multimodal AI agent using Gemini Live API for real-time environment understanding.
+
+### RepoSage — Autonomous Open-Source Maintainer
+AI-powered GitHub PR review system using Amazon Bedrock and FastAPI.
+
+### PRoctor — OpenEnv Code Agent Reviewer
+Evaluation environment for AI code-review agents using deterministic scoring.
+
+## 🌱 Currently Exploring
+- Agentic workflows
+- Multimodal AI
+- Generative AI systems
+- AI evaluation pipelines
