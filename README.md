@@ -99,13 +99,6 @@ with ImageNet pre-trained weights and task-specific fine-tuning.
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya1234M&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1234M&layout=compact&theme=dark&hide_border=true)
-
----
 
 <div align="center">
 <i>Open to internships, research collaborations, and interesting problems.</i>
